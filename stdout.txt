@@ -1,5 +1,5 @@
 ============================= test session starts ==============================
-platform linux -- Python 3.6.7, pytest-3.6.2, py-1.5.3, pluggy-0.6.0 -- /home/ec2-user/virtu/email/bin/python
+platform linux -- Python 3.6.7, pytest-3.6.2, py-1.5.3, pluggy-0.6.0 -- /home/ec2-user/environment/virtu/email/bin/python
 cachedir: .pytest_cache
 rootdir: /home/ec2-user/codenation/validador-emails-python, inifile:
 collecting ... collected 8 items
